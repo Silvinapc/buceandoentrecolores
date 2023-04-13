@@ -1,2 +1,2 @@
 # buceandoentrecolores
-curso  programacion web
+buceandoweb
